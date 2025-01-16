@@ -1,5 +1,6 @@
 #include <iostream>
 //LAS '' NORMALES SOLO OCUPAN UN CHARACTER, LAS "" SON PARA FRASES
+// TIENES QUE PONER INT MAIN PARA DECLARAR LA FUNCION PRINCIPAL
 int main(){
 
 int numero_manzanas= {10};
